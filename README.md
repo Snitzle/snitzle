@@ -8,7 +8,7 @@ Most of my recent engineering work is in private repositories. These are the two
 
 ## Spicy Brain
 
-[Spicy Brain](https://spicybrain.help) is a home-management app built around reminders, tasks, and the everyday responsibilities that are easy to lose track of. It uses Laravel and Vue on the web, with recurring schedules, notification delivery, and integrations such as Discord and Telegram.
+[Spicy Brain](https://spicybrain.help) is a life-management app built around reminders, tasks, and the everyday responsibilities that are easy to lose track of. It uses Laravel and Vue on the web, with recurring schedules, notification delivery, and integrations such as Discord and Telegram.
 
 The aim is simple: reduce cognitive load and give people flexible tools that work with their routines rather than against them.
 
