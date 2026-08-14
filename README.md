@@ -12,7 +12,7 @@ Most of my recent engineering work is in private repositories. These are the two
 
 The aim is simple: reduce cognitive load and give people flexible tools that work with their routines rather than against them.
 
-## SpicyBrain Mobile
+## Spicy Brain Mobile
 
 SpicyBrain Mobile is the Expo and React Native companion app. It brings reminder management, recurring series, quiet hours, account settings, integrations, and native push notifications to iOS and Android.
 
